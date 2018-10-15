@@ -1,0 +1,18 @@
+{
+    "data": {
+        "count": 2,
+        "total": 2,
+        "list": [
+            {
+                "inbound_id": "IN20180809954001",
+                "supplier_id": "34680325"
+            },
+            {
+                "inbound_id": "IN20180809954002",
+                "supplier_id": "34680326"
+            }
+        ],
+        "pageno": 1
+    },
+    "retcode": 0
+}
