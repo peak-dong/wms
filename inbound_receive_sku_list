@@ -5,7 +5,7 @@
         "extra":{
             "total_count": 20,
             "total_sku": 2,
-            "status": 1,
+            "status": 0,
             "supplier_id": "1212121",
             "inbound_id": "IN20180809954001",
             "po_id": "EL-34680325-150917-0001",
