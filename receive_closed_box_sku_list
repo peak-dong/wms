@@ -1,0 +1,24 @@
+{
+    "data": {
+        "count": 2,
+        "total": 2,
+        "extra": {
+          "box_id": "B00001",
+          "box_ids": ["B00001", "B00002"]
+        },
+        "list": [
+          {
+            "count": 2,
+            "sku_name": "Western Digital Elements 2.5 inch",
+            "sku_id": "448651975_346632548"
+          },
+          {
+            "count": 1,
+            "sku_name": "Western Digital Elements 2.5 inch",
+            "sku_id": "448651975_346632548"
+          }
+        ],
+        "pageno": 1
+    },
+    "retcode": 0
+}
